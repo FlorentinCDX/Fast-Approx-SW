@@ -1,6 +1,6 @@
 # Fast Approximation of the Sliced-Wasserstein Distance Using Concentration of Random Projections
 
-This repository provides a official implementation of the paper [Fast Approximation of the Sliced-Wasserstein Distance Using Concentration of Random Projections](https://arxiv.org/pdf/2106.15427.pdf) from Kimia Nadjahi, Alain Durmus, Pierre E. Jacob, Roland Badeau, Umut Şimşekli.
+This repository provides an unofficial implementation of the paper [Fast Approximation of the Sliced-Wasserstein Distance Using Concentration of Random Projections](https://arxiv.org/pdf/2106.15427.pdf) from Kimia Nadjahi, Alain Durmus, Pierre E. Jacob, Roland Badeau, Umut Şimşekli.
 
 ## Table of Contents
 
